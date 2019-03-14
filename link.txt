@@ -1,0 +1,1 @@
+https://pt.stackoverflow.com/questions/346984/redirecionamento-para-tela-home-ap%C3%B3s-validar-login-react-native-firebase
